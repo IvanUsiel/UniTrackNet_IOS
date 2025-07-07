@@ -1,0 +1,15 @@
+{
+  "originHash" : "c8954701658c265b926dacde88604e9b65131f964ac81edf345e2d68270a7e5b",
+  "pins" : [
+    {
+      "identity" : "mkringprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxkonovalov/MKRingProgressView",
+      "state" : {
+        "revision" : "660888aab1d2ab0ed7eb9eb53caec12af4955fa7",
+        "version" : "2.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
