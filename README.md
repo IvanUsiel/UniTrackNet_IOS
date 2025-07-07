@@ -72,7 +72,7 @@ El acceso a la versión de producción está restringido por razones de segurida
 - Códigos de acceso dinámicos generados al momento
 - Credenciales individuales de acceso autorizadas
 
-Si gustan en probar la versión de producción o necesitas acceso completo, por favor **contáctame directamente**.
+Si gustan en probar la versión de producción, por favor **contáctame directamente**.
  sobre todo por la cuestion de los codigos de acceso en tiempo real.
 
 ## Dependencias del proyecto
